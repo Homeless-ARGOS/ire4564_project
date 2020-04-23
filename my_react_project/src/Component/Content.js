@@ -6,8 +6,8 @@ class Content extends Component {
             <div id="Content">
                 {/*클릭시 각각의 내용*/}
                <article>
-                   <h2>HTML</h2>
-                   HTML is HyperText Markup Language.
+                   <h2>{this.props.title}</h2>
+                   {this.props.desc}
                </article>
             </div>
         );

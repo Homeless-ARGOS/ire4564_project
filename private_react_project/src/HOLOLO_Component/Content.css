@@ -1,0 +1,12 @@
+#Table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#FloatingB{
+    color: brown;
+    border-color: black;
+    position: fixed;
+    bottom: 5px;
+    right:5px;
+}

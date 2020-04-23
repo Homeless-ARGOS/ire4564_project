@@ -1,0 +1,15 @@
+th, td {
+    border-bottom: 1px solid #CBCBCB;
+    padding: 2px;
+    text-align: center;
+}
+
+td {
+    -webkit-transition-duration: 0.5s;
+}
+
+td:hover {
+    text-align: center;
+    background-color: #CCCCCC;
+    -webkit-transition-duration: 0.5s;
+}
