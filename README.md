@@ -2,10 +2,11 @@
 
 <h2>
 <b>::When you start this program...</b><br/>
-
+</h2>
+<h3>
 `npm install`<br/>
 `npm run start`
-</h2>
+</h3>
 
 ![image](https://user-images.githubusercontent.com/44183221/86329801-ab5ca500-bc81-11ea-8e9e-c29a61df51a8.png)
 
