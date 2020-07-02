@@ -1,4 +1,4 @@
-# React&React Native Project
+# Renewal Club Web page, in CNU security club
 
 <h2>
 <b>::When you start this program::</b><br/>
